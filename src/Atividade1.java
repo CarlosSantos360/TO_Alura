@@ -1,6 +1,6 @@
 public class Atividade1 {
     public static void main(String[] args) {
-        int celsius = 33;
+        int celsius = 32;
         double conversor = (celsius * 1.8) + 32;
 
         String temperatura;
